@@ -1,5 +1,3 @@
-Sure! Below is a sample README file that you can use for your Movie App project:
-
 # Movie App
 
 The Movie App is a web application that allows users to search for movies using The Movie Database (TMDb) API. Users can enter keywords related to movies, and the app will display a list of relevant movies along with their details.
