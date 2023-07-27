@@ -16,7 +16,8 @@ The Movie App is a web application that allows users to search for movies using 
 
 [Link to Live Demo](https://www.example.com/movie-app)
 
-[![Movie App Screenshot](F:\html\MovieApp\movieApp.jpg)
+## Preview
+![Movie App Screenshot](movieApp.jpg)
 
 ## Features
 
