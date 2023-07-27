@@ -11,8 +11,6 @@ The Movie App is a web application that allows users to search for movies using 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
