@@ -14,7 +14,7 @@ The Movie App is a web application that allows users to search for movies using 
 
 ## Demo
 
-[Link to Live Demo](https://www.example.com/movie-app](https://harshak-1744.github.io/Movie-App/))
+[Link to Live Demo](https://harshak-1744.github.io/Movie-App/)
 
 ## Preview
 ![Movie App Screenshot](movieApp.jpg)
